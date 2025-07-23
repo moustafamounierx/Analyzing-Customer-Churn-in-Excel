@@ -1,6 +1,6 @@
 # Analyzing-Customer-Churn-in-Excel
 
-Explore a fictitious dataset from Databel, a subscription-based telecom company, to uncover insights into customer churn. This project goes beyond calculating churn rates—it identifies key drivers of customer attrition and proposes actionable strategies to improve retention.
+Explore a fictitious dataset from Databel, a subscription-based telecom company, to uncover insights into customer churn. This project goes beyond calculating churn rates, it identifies key drivers of customer attrition and proposes actionable strategies to improve retention.
 
 What You'll Do:
 ✔ Analyze churn trends using calculated columns and advanced Excel functions.
